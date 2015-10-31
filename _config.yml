@@ -1,13 +1,13 @@
 # Site settings
-title: A Cutfile Everyday
-name: A Cutfile Everyday
+title: Iconize Everything
+name: Iconize Everything
 locale: en_us
 logo: img/logo.png
 header-img: img/home-cover.png
 email: nupur91shah@gmail.com
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: ""
-url: "http://bumpyrides.in/ACutfileEveryday"
+url: "http://bumpyrides.in/IconizeEverything"
 author:
   facebook:     nupur.shah.1654
   twitter:      nupurshah91
